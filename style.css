@@ -1,4 +1,5 @@
 .cabeçalho{
+    
     background-color: #ff9E9E;
     padding: 0px;
     margin: 0px;
@@ -20,3 +21,11 @@
         font-size: 27px;
         justify-content: space-around;
     }
+
+    baseboard]
+    background-color: #ff9E9E;
+    padding: 0px;
+    margin: 0px;
+    height: 250px;
+    background;
+    display: flex;
