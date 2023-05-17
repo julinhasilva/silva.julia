@@ -1,22 +1,22 @@
 .cabeçalho{
-     background-color: #ff9E9E;
-     padding: 0px;
-     margin: 0px;
-     height: 250px;
-     background;
-     display: flex;
-     align-items: center;
-     justify-content: space-between;
- }
- .titulo-corpo{
-     display: flex;
-     justify-content:center;
-     }
+    background-color: #ff9E9E;
+    padding: 0px;
+    margin: 0px;
+    height: 250px;
+    background;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.titulo-corpo{
+    display: flex;
+    justify-content:center;
+    }
 
-     .div-imagem-p1{
-         display: flex;
-         align-items: center;
-         text-align: center;
-         font-size: 27px;
-         justify-content: space-around;
-     }
+    .div-imagem-p1{
+        display: flex;
+        align-items: center;
+        text-align: center;
+        font-size: 27px;
+        justify-content: space-around;
+    }
